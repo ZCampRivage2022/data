@@ -8,7 +8,7 @@ Create the python environment:
 python3 -m venv .venv
 ```
 
-## Activate the Pythin environment
+## Activate the Python environment
 
 ```
 source .venv/bin/activate
